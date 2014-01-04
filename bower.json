@@ -1,0 +1,23 @@
+{
+  "name": "fesor-player-research",
+  "version": "0.1.0",
+  "authors": [
+    "Sergey Protko <fesors@gmail.com>"
+  ],
+  "description": "Simple HTML5 Audio Api and WebGL research",
+  "main": "dist/index.html",
+  "keywords": [
+    "audio",
+    "html5",
+    "audio",
+    "webjs",
+    "three.js"
+  ],
+  "license": "MIT",
+  "homepage": "http://fesor.ru",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.*",
+    "three.js": "*"
+  }
+}
