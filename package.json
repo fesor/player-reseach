@@ -1,0 +1,25 @@
+{
+  "name": "fesor-player",
+  "version": "0.1.0",
+  "description": "Simple HTML5 Audio Api and WebGL research",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fesor/player-reseach.git"
+  },
+  "keywords": [
+    "audio",
+    "html5 audio",
+    "three.js",
+    "audio processing"
+  ],
+  "author": "Sergey Protko <fesors@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fesor/player-reseach/issues"
+  },
+  "homepage": "https://github.com/fesor/player-reseach"
+}
